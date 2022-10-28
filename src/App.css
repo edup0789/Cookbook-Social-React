@@ -22,3 +22,31 @@ button.link-button {
     transform: rotate(360deg);
   }
 }
+
+.carouselExampleDark {
+  align-items: center;
+  max-width:700px;
+  height: 600px;
+}
+
+.center {
+  margin: auto;
+  width: 100%;
+
+}
+
+.center-carousel {
+  margin-top: 5%;
+  margin-left: 23%;
+  margin-right: 23%;
+  width: 100%;
+  height: auto;
+}
+
+.container-food {
+  align-content: center;
+  align-items: center;
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-top: 3em;
+}

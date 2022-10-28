@@ -1,0 +1,23 @@
+.userForm{
+    border: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    max-width: 650px;
+    align-items: center;
+    padding: 2em;
+    border-radius: 1em;
+
+}
+
+/* formLogin {
+    border: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    max-width: 550px;
+    align-items: center;
+    padding: 2em;
+    border-radius: 1em;
+    
+} */
